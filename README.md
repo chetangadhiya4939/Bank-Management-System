@@ -55,5 +55,4 @@ Feel free to fork, enhance features, and submit pull requests!
 ---
 
 ## **📩 Contact**  
-📧 Email: your-email@example.com  
 🔗 GitHub: [chetangadhiya4939](https://github.com/chetangadhiya4939)  
